@@ -1,0 +1,21 @@
+*{
+    font-family: 'inherit', Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.divCenter{
+    display: flex;
+    width: 100vw;
+    height: 5rem;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.breakLine{
+    height: 5px;
+    width: 100vw;
+    background: rgb(255, 81, 0);
+}
